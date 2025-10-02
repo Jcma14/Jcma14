@@ -14,7 +14,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://cdni.iconscout.com/illustration/premium/thumb/software-testing-illustration-svg-download-png-9007545.png" />
 
 
-💻 **QA Engineer in training @ TripleTen LATAM** | 🔍 **Exploring Tech Through Testing & Security**  
+💻 **QA Software Engineer in training** | 🔍 **Exploring Tech Through Testing & Security**  
 
 I’m transitioning from a background in **Finance & Customer Service** into the world of **Software Quality Assurance and IT**. My curiosity, problem-solving mindset, and love for continuous learning drive me to stay up-to-date with new technologies and testing trends.
 
