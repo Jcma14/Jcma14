@@ -1,4 +1,9 @@
-<h1 align="center"><b>Hi , Hello World, I'm Camilo Morales </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello World, I'm Camilo Morales </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!-- Followers Count and Views Count -->
+
+![](https://img.shields.io/github/followers/Jcma14?label=Followers&style=flat-square)
+
 
 ![Header Banner](assets/Banner.png)
 
@@ -9,10 +14,9 @@
 
 💻 **QA Engineer in training @ TripleTen LATAM** | 🔍 **Exploring Tech Through Testing & Security**  
 
-I’m transitioning from a background in **Finance & Customer Service** into the world of **Software Quality Assurance and IT**.  
-My curiosity, problem-solving mindset, and love for continuous learning drive me to stay up-to-date with new technologies and testing trends.
+I’m transitioning from a background in **Finance & Customer Service** into the world of **Software Quality Assurance and IT**. My curiosity, problem-solving mindset, and love for continuous learning drive me to stay up-to-date with new technologies and testing trends.
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
 - 🎓 Currently completing the **QA Engineering bootcamp at TripleTen**  
 - 🧪 Hands-on experience testing **mobile apps, web apps, and APIs**  
@@ -22,12 +26,31 @@ My curiosity, problem-solving mindset, and love for continuous learning drive me
 
 ---
 
-## 🛠️ Tech & Tools  
+## My Skills Include
 
-- **Languages:** Python, SQL, JavaScript (basic)  
-- **QA Tools:** Android Studio, Postman, BrowserStack, Jira  
-- **Version Control:** Git & GitHub  
-- **Other Interests:** Cybersecurity, Networking, Automation   
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+   
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  
+  
 
 ---
 
@@ -53,10 +76,20 @@ My curiosity, problem-solving mindset, and love for continuous learning drive me
 ---
 
 ## 📫 Let’s Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: *your-email-here*  
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-USERNAME/](https://www.linkedin.com/in/camilo-morales-qa/))
+- [![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilomorales.qa@gmail.com)
+
 
 ---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jcma14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jcma14&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ⭐️ *Thanks for visiting my GitHub — follow along as I grow my portfolio and keep pushing my skills forward!* 🚀
 
