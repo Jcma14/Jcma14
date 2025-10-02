@@ -25,7 +25,7 @@ I’m transitioning from a background in **Finance & Customer Service** into the
 - 💡 Known for **curiosity and adaptability** — always eager to learn, improve, and share knowledge
 
 
-# My Skills Include
+## My Skills Include
 
 <h4> Languages </h4>
 <span> 
@@ -51,7 +51,7 @@ I’m transitioning from a background in **Finance & Customer Service** into the
   
 
 
-# Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -65,14 +65,16 @@ I’m transitioning from a background in **Finance & Customer Service** into the
 
 
 ## What Sets Me Apart
+
 ✨ **Curiosity:** I dive deep into understanding how things work, whether it’s an app, a network, or a testing framework.  
 ✨ **Continuous Growth:** I stay updated with the latest QA and IT trends to adapt quickly in a fast-changing tech world.  
 ✨ **Transferable Skills:** My background in finance has sharpened my analytical thinking, attention to detail, and client-focused approach.  
 
 
 ## Let’s Connect
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-USERNAME/](https://www.linkedin.com/in/camilo-morales-qa/))
-- [![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilomorales.qa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-morales-qa/)
+
+[![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilomorales.qa@gmail.com)
 
 
 
@@ -85,7 +87,7 @@ I’m transitioning from a background in **Finance & Customer Service** into the
 </a>
 </p>
 
-**Thanks for visiting my GitHub — follow along as I grow my portfolio and keep pushing my skills forward!**
+### **Thanks for visiting my GitHub — follow along as I grow my portfolio and keep pushing my skills forward!**
 
 
 <!--
