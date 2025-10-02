@@ -77,7 +77,6 @@ I’m transitioning from a background in **Finance & Customer Service** into the
 
 ## Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-morales-qa/)
-
 [![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilomorales.qa@gmail.com)
 
 
