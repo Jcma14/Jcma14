@@ -2,7 +2,7 @@
 
 <!-- Followers Count and Views Count -->
 
-![](https://img.shields.io/github/followers/Jcma14?label=Followers&style=flat-square)
+![](https://img.shields.io/github/followers/Jcma14?label=Followers&style=flat)
 <img src="https://komarev.com/ghpvc/?username=Jcma14&label=Profile%20views&color=0e75b6&style=flat"
     alt="Jcma14" />
 
