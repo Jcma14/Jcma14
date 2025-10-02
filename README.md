@@ -3,6 +3,8 @@
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/Jcma14?label=Followers&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Jcma14&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Jcma14" />
 
 
 ![Header Banner](assets/Banner.png)
@@ -16,7 +18,9 @@
 
 I’m transitioning from a background in **Finance & Customer Service** into the world of **Software Quality Assurance and IT**. My curiosity, problem-solving mindset, and love for continuous learning drive me to stay up-to-date with new technologies and testing trends.
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+<!--About Me-->
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - 🎓 Currently completing the **QA Engineering bootcamp at TripleTen**  
 - 🧪 Hands-on experience testing **mobile apps, web apps, and APIs**  
