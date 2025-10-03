@@ -79,7 +79,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 
 | Project | Description |
 |---------|-------------|
-| [🌐 Urban Grocers (API Testing)](https://github.com/YourUsername/urban-grocers-api) | Performed **API and backend testing** for an online grocery service. Focused on validating new back-end functionality against documented requirements. |
+| [🌐 Urban Grocers (API Testing)](https://github.com/Jcma14/Urban-Grocers-API-Testing-) | Performed **API and backend testing** for an online grocery service. Focused on validating new back-end functionality against documented requirements. |
 | [📱 Urban Lunch (Mobile App) Testing](https://github.com/YourUsername/urban-lunch-mobile) | Performed **mobile testing** for a food ordering app using Android Studio. Tested ordering flows, geolocation permissions, and error message validation. |
 
 
