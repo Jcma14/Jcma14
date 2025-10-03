@@ -87,7 +87,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 <a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank">
 <img src="https://img.shields.io/badge/PROJECT LINK-22ad0c?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>Performed <strong>API<strong> and <strong>BACKEND<strong> testing for an online grocery service. Focused on validating new back-end functionality against documented requirements.</p>
+<p>Performed API and Backend testing for an online grocery service. Focused on validating new back-end functionality against documented requirements.</p>
 </div>
                                                                                       
 </td>
@@ -102,7 +102,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 <a href="https://github.com/ArisGuimera/SimpleAndroidM1VVM" target="_blank">
 <img src="https://img.shields.io/badge/PROJECT LINK-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Performed <strong>MOBILE TESTING<strong> for a food ordering app using Android Studio. Tested ordering flows, geolocation permissions, and error message validation.</p>
+</p>Performed Mobile Testing for a food ordering app using Android Studio. Tested ordering flows, geolocation permissions, and error message validation.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
