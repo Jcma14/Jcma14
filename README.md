@@ -36,6 +36,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+
    
 
 </span>
