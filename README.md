@@ -96,7 +96,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
                <br>
 <h3 align="center">Urban Lunch (Mobile App) Testing</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimeraa/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBiigG.jpg" width="400" alt="Urban Lunch"></a>
+<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank"><img src="assets/Urban.Lunch.png" width="400" alt="Urban.Lunch Project"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidM1VVM" target="_blank">
