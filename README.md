@@ -77,6 +77,41 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Urban Grocers (API Testing)</h3>
+<div align="center">
+<a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank"><img src="assets/Urban.Grocers.png" width="400" alt="Urban.Grocers Project"></a>
+<p>
+<a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank">
+<img src="https://img.shields.io/badge/PROJECT LINK-22ad0c?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p>Performed **API and backend testing** for an online grocery service. Focused on validating new back-end functionality against documented requirements.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Arquitectura MVVM</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 | Project | Description |
 |---------|-------------|
 | [🌐 Urban Grocers (API Testing)](https://github.com/Jcma14/Urban-Grocers-API-Testing-) | Performed **API and backend testing** for an online grocery service. Focused on validating new back-end functionality against documented requirements. |
