@@ -76,7 +76,6 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 
 
 ## Featured Projects
-
 <table>
 <tr>
 <td width="50%">
@@ -93,14 +92,13 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Urban Lunch (Mobile App) Testing</h3>
 <div align="center">                                       
-<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank"><img src="assets/Urban.Lunch.png" width="400" alt="Urban.Lunch Project"></a>
+<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank"><img src="assets/Urban-lunch-2.png" width="400" alt="Urban.Lunch Project"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidM1VVM" target="_blank">
-<img src="https://img.shields.io/badge/PROJECT LINK-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank">
+<img src="https://img.shields.io/badge/PROJECT LINK-9C1B06?style=for-the-badge&logo=github&logoColor=black">
 </p>
 </p>Performed Mobile Testing for a food ordering app using Android Studio. Tested ordering flows, geolocation permissions, and error message validation.</p>
 </div>                                                             
