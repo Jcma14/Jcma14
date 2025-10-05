@@ -122,7 +122,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 ## ⚙️ &nbsp;Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/Jcma14">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jcma14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jcma14&layout=compact&langs_count=8&theme=algolia"/>
 </a>
