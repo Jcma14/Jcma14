@@ -2,9 +2,22 @@
 
 <!-- Followers Count and Views Count -->
 
-![](https://img.shields.io/github/followers/Jcma14?label=Followers&style=flat)
-<img src="https://komarev.com/ghpvc/?username=Jcma14&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Jcma14" />
+<p align="center">
+  <!-- Followers Badge -->
+  <a href="https://github.com/Jcma14?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jcma14?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+
+  <!-- Profile Views Badge -->
+  <a href="https://github.com/Jcma14">
+    <img src="https://komarev.com/ghpvc/?username=Jcma14&label=Profile%20Views&style=for-the-badge&color=green" alt="Profile Views"/>
+  </a>
+
+  <!-- Learning Log Badge -->
+  <a href="https://github.com/Jcma14/My-learning-log">
+    <img src="https://img.shields.io/badge/Learning%20Log-📘-purple?style=for-the-badge" alt="Learning Log"/>
+  </a>
+</p>
 
 
 ![Header Banner](assets/Banner.png)
@@ -105,6 +118,8 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 </table>                                                                                 
 </div>
 <br>
+
+- [**Learning Log**](https://github.com/YOUR-USERNAME/learning-log) — My personal documentation of everything I learn in **Cybersecurity**, **QA**, and **IT fundamentals**.
 
 ## What Sets Me Apart
 
