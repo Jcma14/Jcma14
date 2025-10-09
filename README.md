@@ -119,7 +119,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 </div>
 <br>
 
-- [**Learning Log**](https://github.com/YOUR-USERNAME/learning-log) — My personal documentation of everything I learn in **Cybersecurity**, **QA**, and **IT fundamentals**.
+- Check my [**Learning Log**](https://github.com/Jcma14/My-learning-log) — My personal documentation of everything I learn in **Cybersecurity**, **QA**, and **IT fundamentals**.
 
 ## What Sets Me Apart
 
