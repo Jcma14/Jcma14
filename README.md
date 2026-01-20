@@ -112,7 +112,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 <a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank"><img src="assets/Urban_Grocers_API_Testing.png" width="400" alt="Urban.Grocers Project"></a>
 <p>
 <a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank">
-<img src="https://img.shields.io/badge/PROJECT LINK-22ad0c?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/PROJECT LINK-FF7F00?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p>Performed API and Backend testing for an online grocery service. Focused on validating new back-end functionality against documented requirements.</p>
 </div>
