@@ -109,7 +109,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 <td width="50%">
 <h3 align="center">Urban Grocers (API Testing)</h3>
 <div align="center">
-<a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank"><img src="assets/Urban.Grocers.png" width="400" alt="Urban.Grocers Project"></a>
+<a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank"><img src="assets/Urban_Grocers_API_Testing.png" width="400" alt="Urban.Grocers Project"></a>
 <p>
 <a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank">
 <img src="https://img.shields.io/badge/PROJECT LINK-22ad0c?style=for-the-badge&logo=github&logoColor=black">
@@ -122,7 +122,7 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 <td width="50%">
 <h3 align="center">Urban Lunch (Mobile App) Testing</h3>
 <div align="center">                                       
-<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank"><img src="assets/Urban-lunch-2.png" width="400" alt="Urban.Lunch Project"></a>
+<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank"><img src="assets/Urban_Lunch_MobileApp_Testing.png" width="400" alt="Urban.Lunch Project"></a>
 <br>
 <p>
 <a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank">
