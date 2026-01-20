@@ -88,6 +88,22 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 
 
 ## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Urban Grocers (Automated Testing)</h3>
+<div align="center">
+<a href="https://github.com/Jcma14/Urban-Grocers-Automated-Testing" target="_blank"><img src="assets/Urban.Grocers.png" width="400" alt="Urban.Grocers Project"></a>
+<p>
+<a href="https://github.com/Jcma14/Urban-Grocers-Automated-Testing" target="_blank">
+<img src="https://img.shields.io/badge/PROJECT LINK-22ad0c?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p>This project contains automated API tests written in Python using Pytest and the Requests library. It focuses on validating the Kit Creation endpoint for a user via the API.</p>
+</div>
+
+</td>
+  
 <table>
 <tr>
 <td width="50%">
