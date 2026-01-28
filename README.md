@@ -147,7 +147,6 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
 [![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilomorales.qa@gmail.com)
 
 
-
 ## ⚙️ &nbsp;Analytics
 
 <p align="center">
