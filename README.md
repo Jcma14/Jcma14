@@ -83,55 +83,82 @@ I work with tools like Selenium, Postman, JIRA, SQL, and I’m building automati
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
   <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  
-
 
 ## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 <h3 align="center">Urban Grocers (Automated Testing)</h3>
 <div align="center">
-<a href="https://github.com/Jcma14/Urban-Grocers-Automated-Testing" target="_blank"><img src="assets/Automated_Testing_Urban_Grocers_Image.png" width="400" alt="Urban.Grocers Project"></a>
-<p>
 <a href="https://github.com/Jcma14/Urban-Grocers-Automated-Testing" target="_blank">
-<img src="https://img.shields.io/badge/PROJECT LINK-9ACD32?style=for-the-badge&logo=github&logoColor=black">
+<img src="assets/Automated_Testing_Urban_Grocers_Image.png" width="400" alt="Urban Grocers Automated Testing">
+</a>
+<br><br>
+<a href="https://github.com/Jcma14/Urban-Grocers-Automated-Testing" target="_blank">
+<img src="https://img.shields.io/badge/PROJECT%20LINK-9ACD32?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<p>
+Python-based automated API testing project demonstrating structured test scripts, authentication handling, and validation of positive and negative API scenarios using Pytest and Requests.
 </p>
-<p>Python-based automated API testing project demonstrating the importance of automation in QA through structured test scripts, authentication handling, and validation of positive and negative API scenarios using Pytest and Requests.</p>
 </div>
-
 </td>
-  
-<table>
+
+<td width="50%" valign="top">
+<h3 align="center">Urban Routes (Selenium Automation Testing)</h3>
+<div align="center">
+<a href="https://github.com/Jcma14/Qa-Selenium-Project-Urban-Routes" target="_blank">
+<img src="assets/selenium_project_image.png" width="400" alt="Taxi Booking Automation Project">
+</a>
+<br><br>
+<a href="https://github.com/Jcma14/Qa-Selenium-Project-Urban-Routes" target="_blank">
+<img src="https://img.shields.io/badge/PROJECT%20LINK-EBB31A?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<p>
+Automated end-to-end testing of a taxi booking web application using Selenium, Python, and Pytest. Implemented Page Object Model (POM) and validated booking flows and UI behavior.
+</p>
+</div>
+</td>
+
+</tr>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 <h3 align="center">Urban Grocers (API Testing)</h3>
 <div align="center">
-<a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank"><img src="assets/Urban_Grocers_API_Testing.png" width="400" alt="Urban.Grocers Project"></a>
-<p>
 <a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank">
-<img src="https://img.shields.io/badge/PROJECT LINK-FF7F00?style=for-the-badge&logo=github&logoColor=black">
+<img src="assets/Urban_Grocers_API_Testing.png" width="400" alt="Urban Grocers API Testing">
+</a>
+<br><br>
+<a href="https://github.com/Jcma14/Urban-Grocers-API-Testing-" target="_blank">
+<img src="https://img.shields.io/badge/PROJECT%20LINK-FF7F00?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<p>
+Performed API and backend testing for an online grocery service. Validated functionality against documented requirements using Postman and structured test cases.
 </p>
-<p>Performed API and Backend testing for an online grocery service. Focused on validating new back-end functionality against documented requirements.</p>
 </div>
-                                                                                      
 </td>
 
-<td width="50%">
-<h3 align="center">Urban Lunch (Mobile App) Testing</h3>
-<div align="center">                                       
-<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank"><img src="assets/Urban_Lunch_MobileApp_Testing.png" width="400" alt="Urban.Lunch Project"></a>
-<br>
-<p>
+<td width="50%" valign="top">
+<h3 align="center">Urban Lunch (Mobile App Testing)</h3>
+<div align="center">
 <a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank">
-<img src="https://img.shields.io/badge/PROJECT LINK-9C1B06?style=for-the-badge&logo=github&logoColor=black">
+<img src="assets/Urban_Lunch_MobileApp_Testing.png" width="400" alt="Urban Lunch Mobile Testing">
+</a>
+<br><br>
+<a href="https://github.com/Jcma14/Urban-Lunch-Mobile-App-Testing" target="_blank">
+<img src="https://img.shields.io/badge/PROJECT%20LINK-9C1B06?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<p>
+Performed mobile testing for a food ordering app using Android Studio. Tested ordering flows, geolocation permissions, and error message validation.
 </p>
-</p>Performed Mobile Testing for a food ordering app using Android Studio. Tested ordering flows, geolocation permissions, and error message validation.</p>
-</div>                                                             
-</table>                                                                                 
 </div>
-<br>
+</td>
+
+</tr>
+</table>
 
 - Check my [**Learning Log**](https://github.com/Jcma14/My-learning-log) — My personal documentation of everything I learn in **QA**, **Cybersecurity**, and **IT fundamentals**.
 
