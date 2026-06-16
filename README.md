@@ -199,9 +199,6 @@ I’m early in this transition and I know it. That’s exactly why I keep things
   <a href="https://www.linkedin.com/in/camilo-morales-qa/">
     <img src="https://img.shields.io/badge/LinkedIn-Camilo%20Morales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:camilomorales.qa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-camilomorales.qa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </p>
 
 <p align="center"><i>Thanks for visiting — follow along as the portfolio grows.</i></p>
