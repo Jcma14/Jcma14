@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>QA Engineer → Security Engineer in the making</b><br>
-  Perth, Australia&nbsp;·&nbsp;Colombian-born&nbsp;·&nbsp;8 years in Australia
+  Perth, Australia&nbsp
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 I’m a QA Engineer transitioning into **Cybersecurity**, with a background spanning Finance, Logistics, and Customer Service. I finished my QA Engineering bootcamp at TripleTen and I’m now deepening my technical foundation through hands-on cybersecurity labs, a home lab setup, and self-directed study.
 
-In **Semester 2, 2026**, I’ll begin a **Master of Cyber Security at Edith Cowan University (ECU)** in Perth — one of Australia’s leading institutions in the field — with a scholarship and a mandatory industry placement in the final semester.
+In **Semester 2, 2026**, I’ll begin a **Master of Cyber Security at Edith Cowan University (ECU)** in Perth, one of Australia’s leading institutions in the field, with a scholarship and a mandatory industry placement in the final semester.
 
 My goal is to work as a **Security Engineer or Analyst**, combining my QA mindset (systematic thinking, structured testing, documentation) with security fundamentals.
 
@@ -37,7 +37,7 @@ My goal is to work as a **Security Engineer or Analyst**, combining my QA mindse
 
 - 🎓 Accepted into the **Master of Cyber Security at ECU** — starting Semester 2, 2026
 - 🛡️ Building a **cybersecurity home lab**: Kali Linux VM, SSH, network segmentation, Raspberry Pi phase coming
-- 🔬 Working through **KC7 CyLab** (KQL threat hunting) and **picoCTF** challenges
+- 🔬 Working through **KC7** (KQL threat hunting) and **CyLab/picoCTF** challenges
 - 📓 Maintaining an **Obsidian Cyber Vault** for structured notes and an evolving learning methodology
 - 📂 Logging everything publicly in my **[Learning Log](https://github.com/Jcma14/My-learning-log)**
 - ✅ Graduated from the **QA Engineering Bootcamp at TripleTen**
@@ -164,21 +164,21 @@ Mobile testing for a food ordering app on Android Studio. Validated ordering flo
 
 ## 📓 Learning Log
 
-My public learning log is where I document everything I study — from QA fundamentals to cybersecurity labs, networking concepts, and hands-on tool usage. It’s a live record of how I learn, not just what I’ve learned.
+My public learning log is where I document everything I study, from QA fundamentals to cybersecurity labs, networking concepts, and hands-on tool usage. It’s a live record of how I learn, not just what I’ve learned.
 
 → **[Jcma14/My-learning-log](https://github.com/Jcma14/My-learning-log)**
 
-Topics covered so far: KQL · Threat Hunting · KC7 CyLab · picoCTF · SSH · Kali Linux · QA Fundamentals · API Testing · Python Automation
+Topics covered so far: KQL · Threat Hunting · KC7 · CyLab/picoCTF · SSH · Kali Linux · QA Fundamentals · API Testing · Python Automation
 
 -----
 
 ## What Makes Me Different
 
-**QA background in a security context.** I approach systems the way a tester does — looking for edge cases, documenting findings precisely, and thinking adversarially. That mindset translates directly into security work.
+My background is in QA, Finance, and Logistics , not a traditional path into cybersecurity, but it gave me habits that carry over: testing assumptions, documenting clearly, and paying attention to detail.
 
-**I build to understand.** I don’t just follow tutorials. I run a home lab (Kali VM, SSH, custom MCP tooling), write structured notes in Obsidian, and push everything to a public log. Curiosity is how I operate.
+I learn by doing. Right now that means running a home lab with a Kali Linux VM, working through platforms like KC7 and picoCTF, and keeping a public learning log of everything I pick up along the way.
 
-**Analytical foundation.** Years in Finance and Logistics mean I’m comfortable with data, detail, and working within structured processes — skills that matter in security operations and incident response.
+I’m early in this transition and I know it. That’s exactly why I keep things documented and visible so my progress speaks for itself.
 
 -----
 
