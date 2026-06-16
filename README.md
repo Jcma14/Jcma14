@@ -27,7 +27,7 @@
 
 I’m a QA Engineer transitioning into **Cybersecurity**, with a background spanning Finance, Logistics, and Customer Service. I finished my QA Engineering bootcamp at TripleTen and I’m now deepening my technical foundation through hands-on cybersecurity labs, a home lab setup, and self-directed study.
 
-In **Semester 2, 2026**, I’ll begin a **Master of Cyber Security at Edith Cowan University (ECU)** in Perth, one of Australia’s leading institutions in the field, with a scholarship and a mandatory industry placement in the final semester.
+In **Semester 2, 2026**, I’ll begin a **Master of Cyber Security at Edith Cowan University (ECU)** in Perth, one of Australia’s leading institutions in the field, with a scholarship and an industry placement program in the final semester.
 
 My goal is to work as a **Security Engineer or Analyst**, combining my QA mindset (systematic thinking, structured testing, documentation) with security fundamentals.
 
