@@ -46,18 +46,90 @@ My goal is to work as a **Security Engineer or Analyst**, combining my QA mindse
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,selenium,postman,androidstudio,pycharm,kali,git,github,vscode,figma,obsidian&theme=dark&perline=6" alt="Core stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnubash&logoColor=white" alt="SSH">
-  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
-</p>
+<div style="display: flex; align-items: flex-start; justify-content: center">
+<table align="center">
+<tr>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+    <br>VS Code
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    <br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" />
+    <br>Obsidian
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+    <br>Selenium
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+    <br>Postman
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+    <br>Android Studio
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+    <br>PyCharm
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
+    <br>Swagger
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" />
+    <br>Jira
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
+    <br>Kali Linux
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" />
+    <br>Wireshark
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+    <br>MySQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="SSH" />
+    <br>SSH
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Kusto-Alt.svg" width="48" height="48" alt="KQL (Kusto)" />
+    <br>KQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="48" height="48" alt="GitHub Copilot" />
+    <br>GitHub Copilot
+  </td>
+</tr>
+</table>
+</div>
 
 -----
 
