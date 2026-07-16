@@ -46,37 +46,18 @@ My goal is to work as a **Security Engineer or Analyst**, combining my QA mindse
 
 ## 🛠️ Skills & Tools
 
-<h4>Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,selenium,postman,androidstudio,pycharm,kali,git,github,vscode,figma,obsidian&theme=dark&perline=6" alt="Core stack" />
+</p>
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-
-<h4>QA & Testing</h4>
-
-<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge">
-
-<h4>Security & Networking</h4>
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white">
-
-<h4>Documentation & Collaboration</h4>
-
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-
-<h4>Other Tools</h4>
-
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnubash&logoColor=white" alt="SSH">
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+</p>
 
 -----
 
