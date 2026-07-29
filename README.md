@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Camilo Morales&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 
 <p align="center">
-  <b>QA Engineer → Security Engineer in the making</b><br>
+  <b>QA Engineer → Cyber Security Professional in the making</b><br>
   Perth, Australia&nbsp
 </p>
 
